@@ -6,6 +6,16 @@ move it up, forward and backward while collecting coins. The player should also 
 obstacles/enemies as they have penalties.
 Objective of the game is to maximize score by collecting coins.
 
+## How to run
+Enter the command "./graphics_asgn1" on the terminal in the output folder.
+
+## Controls
++ Left arrow: Move Left
++ Right arrow: Move Right
++ SPACE: Move Up
++ B: Throw water balloons
++ Mouse scroll-wheel: Zooming
+
 ## Objects
 + Player: The main character of the game, who can navigate through the world and has 3 lives
 initially, with each life having 100 health.
@@ -34,14 +44,5 @@ amount of score. It can kill all the enemies, including the dragon.
 + Projectile nature of objects.
 + Magnet affects player's path of motion.
 
-## How to run
-Enter the command "./graphics_asgn1" on the terminal in the output folder.
-
-## Controls
-+ Left arrow: Move Left
-+ Right arrow: Move Right
-+ SPACE: Move Up
-+ B: Throw water balloons
-+ Mouse scroll-wheel: Zooming
 
 
