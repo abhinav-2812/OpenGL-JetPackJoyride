@@ -1,0 +1,350 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/ball.cpp
+ball.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/ball.h
+main.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/main.h
+math.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/math.h
+
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/ball.h
+main.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/main.h
+
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/balloon.cpp
+balloon.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/balloon.h
+main.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/main.h
+math.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/math.h
+
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/balloon.h
+main.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/main.h
+
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/boomerang.cpp
+boomerang.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/boomerang.h
+main.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/main.h
+math.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/math.h
+
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/boomerang.h
+main.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/main.h
+
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/coin.cpp
+coin.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/coin.h
+main.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/main.h
+math.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/math.h
+
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/coin.h
+main.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/main.h
+
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/color.cpp
+main.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/main.h
+
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/dragon.cpp
+dragon.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/dragon.h
+main.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/main.h
+math.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/math.h
+
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/dragon.h
+main.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/main.h
+
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/dragonfire.cpp
+dragonfire.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/dragonfire.h
+main.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/main.h
+math.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/math.h
+
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/dragonfire.h
+main.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/main.h
+
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/firebeam.cpp
+firebeam.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/firebeam.h
+main.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/main.h
+math.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/math.h
+
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/firebeam.h
+main.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/main.h
+
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/fireline.cpp
+fireline.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/fireline.h
+main.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/main.h
+math.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/math.h
+
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/fireline.h
+main.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/main.h
+
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/floor.cpp
+floor.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/floor.h
+main.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/main.h
+
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/floor.h
+main.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/main.h
+
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/health.cpp
+health.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/health.h
+main.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/main.h
+math.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/math.h
+
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/health.h
+main.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/main.h
+
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/input.cpp
+cmath
+-
+fstream
+-
+iostream
+-
+vector
+-
+GL/glew.h
+-
+GLFW/glfw3.h
+-
+glm/glm.hpp
+-
+glm/gtc/matrix_transform.hpp
+-
+glm/gtx/transform.hpp
+-
+main.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/main.h
+
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/lightsaber.cpp
+lightsaber.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/lightsaber.h
+main.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/main.h
+math.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/math.h
+
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/lightsaber.h
+main.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/main.h
+
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/lives.cpp
+lives.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/lives.h
+main.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/main.h
+math.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/math.h
+
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/lives.h
+main.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/main.h
+
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/magnet.cpp
+magnet.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/magnet.h
+main.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/main.h
+math.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/math.h
+
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/magnet.h
+main.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/main.h
+
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/main.cpp
+main.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/main.h
+ball.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/ball.h
+balloon.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/balloon.h
+bits/stdc++.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/bits/stdc++.h
+boomerang.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/boomerang.h
+coin.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/coin.h
+dragon.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/dragon.h
+dragonfire.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/dragonfire.h
+firebeam.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/firebeam.h
+fireline.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/fireline.h
+floor.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/floor.h
+health.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/health.h
+lightsaber.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/lightsaber.h
+lives.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/lives.h
+magnet.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/magnet.h
+ring.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/ring.h
+score.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/score.h
+special.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/special.h
+specialcoin.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/specialcoin.h
+timer.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/timer.h
+
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/main.h
+cmath
+-
+fstream
+-
+iostream
+-
+vector
+-
+GL/glew.h
+-
+GLFW/glfw3.h
+-
+glm/glm.hpp
+-
+glm/gtc/matrix_transform.hpp
+-
+glm/gtx/transform.hpp
+-
+
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/nonedit.cpp
+iostream
+-
+cmath
+-
+fstream
+-
+vector
+-
+GL/glew.h
+-
+GLFW/glfw3.h
+-
+glm/glm.hpp
+-
+glm/gtx/transform.hpp
+-
+glm/gtc/matrix_transform.hpp
+-
+main.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/main.h
+
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/other_handlers.cpp
+cmath
+-
+fstream
+-
+iostream
+-
+vector
+-
+GL/glew.h
+-
+GLFW/glfw3.h
+-
+glm/glm.hpp
+-
+glm/gtc/matrix_transform.hpp
+-
+glm/gtx/transform.hpp
+-
+main.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/main.h
+
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/ring.cpp
+ring.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/ring.h
+main.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/main.h
+math.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/math.h
+
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/ring.h
+main.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/main.h
+
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/score.cpp
+score.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/score.h
+main.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/main.h
+math.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/math.h
+
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/score.h
+main.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/main.h
+
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/special.cpp
+special.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/special.h
+main.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/main.h
+math.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/math.h
+
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/special.h
+main.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/main.h
+
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/specialcoin.cpp
+specialcoin.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/specialcoin.h
+main.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/main.h
+math.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/math.h
+
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/specialcoin.h
+main.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/main.h
+
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/timer.cpp
+timer.h
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/timer.h
+GLFW/glfw3.h
+-
+
+/home/abhinav/Desktop/4th sem/Graphics/Submissions/a1_2018121003/src/timer.h
+
